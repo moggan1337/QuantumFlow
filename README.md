@@ -12,6 +12,24 @@
 
 ---
 
+## 🎬 Demo
+![QuantumFlow Demo](demo.gif)
+
+*Quantum circuit simulation and optimization*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Circuit Composer | ![composer](screenshots/circuit-composer.png) |
+| State Visualization | ![state](screenshots/state-viz.png) |
+| Optimization View | ![optimization](screenshots/optimization.png) |
+
+## Visual Description
+Circuit composer shows quantum gates being placed on qubits. State visualization displays Bloch sphere or density matrix. Optimization view shows gate reduction with fidelity improvement.
+
+---
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
